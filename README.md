@@ -34,7 +34,7 @@ Including an example of how to use your role (for instance, with variables passe
 
     - hosts: proxyServers
       roles:
-         - { role: squid }
+         - { role: TheRealJohnDavies.squid }
 
 License
 -------
