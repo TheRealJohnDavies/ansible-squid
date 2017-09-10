@@ -1,0 +1,16 @@
+galaxy_info:
+  author: John Davies
+  description: Installs and configures Squid proxy server
+  company: 
+  license: BSD
+  min_ansible_version: 1.2
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+  galaxy_tags:
+      - proxy
+      - squid
+      - web
+dependencies: []
+

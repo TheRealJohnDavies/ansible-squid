@@ -1,0 +1,17 @@
+---
+# defaults file for squid
+
+squid_cache_dir: /var/spool/squid
+
+squid_conf_dir: /etc/squid
+squid_conf_file: squid.conf
+
+squid_log_dir: /var/log/squid
+
+squid_package_name: squid
+
+squid_service_name: squid
+
+squid_user: squid
+squid_group: squid
+
